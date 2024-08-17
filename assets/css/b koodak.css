@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'b koodak';
+	src: url(../../assets/fonts/b%20koodak-ee75caba10d1dff8485e2331083efbf2.eot) format('embedded-opentype'),
+	url(../../assets/fonts/b%20koodak-f0e685a8b33a40920541e939aacf7925.woff) format('woff'),
+	url(../../assets/fonts/b%20koodak-3ee3b5a503de64e87545676e3c29fee6.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
